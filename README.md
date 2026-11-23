@@ -10,9 +10,13 @@ IP：125.67.215.202
 
 VPN账号	VPN初始密码	服务器IP      	服务器账号	服务器初始密码
 x0_user19	GK}~7:f7	10.0.2.243:19	localuser19	pass1234
-
-
+SVN密码
+85lMT6wn
 
 
 jame:
 mld_ext_guo：ArNEK8SK5l
+
+
+
+
